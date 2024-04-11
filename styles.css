@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(162, 228, 184); 
+}
+h1{
+    color:rgb(244,132,169);
+    text-shadow: 5px 5px 10px white;
+    font-family:'Times New Roman', Times, serif ;
+    
+}
+p{
+    color:rgb(244, 132, 169);
+    text-shadow: 5px 5px 10px white;
+    width: 5in;
+    font-weight: bold;
+}
+
